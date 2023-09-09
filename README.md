@@ -6,11 +6,11 @@
 
 <br>
 
-<em>Bachelor's degree at Electric & Information Engineering, Korea University</em>
+_Bachelor's degree at Electric & Information Engineering, Korea University_
   
 `2017.03 ~ 2023.08`
 
-<em>10th Student at SSAFY(Samsung Software Academy For Youth)</em>
+_10th Student at SSAFY(Samsung Software Academy For Youth)_
 <br>
 
 `2023.08 ~`
