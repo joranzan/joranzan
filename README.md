@@ -1,8 +1,8 @@
-## Hi, I'm Hanjun Cho!   👋
+<h2>Hi, I'm Hanjun Cho! 👋</h2> 
 
 #### Thank you for visiting my Github!
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
----
 <p><em>
 Bachelor's degree at Electric & Information Engineering, Korea University `2017.03 ~ 2023.08`</br>
 10th Student at SSAFY(Samsung Software Academy For Youth)
