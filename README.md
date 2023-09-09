@@ -19,7 +19,9 @@ _10th Student at SSAFY(Samsung Software Academy For Youth)_
 `2023.08 ~`
 
 
+<br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chohj0816)](https://solved.ac/chohj0816/)
 
 <br>
 
