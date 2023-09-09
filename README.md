@@ -3,7 +3,6 @@
 #### Thank you for visiting my Github!
 <img align='right'  width="230">
 
-<p>
 Bachelor's degree at Electric & Information Engineering, Korea University 
   
 <br>
@@ -16,8 +15,6 @@ Bachelor's degree at Electric & Information Engineering, Korea University
 <br>
 
 `2023.08 ~`
-
-</p>
 
 
 
