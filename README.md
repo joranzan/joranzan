@@ -1,7 +1,10 @@
 <h2>Hi, I'm Hanjun Cho! 👋</h2> 
 
 #### Thank you for visiting my Github!
+
 <img align='right'  width="230">
+
+<br>
 
 Bachelor's degree at Electric & Information Engineering, Korea University 
   
