@@ -18,6 +18,10 @@ _10th Student at SSAFY(Samsung Software Academy For Youth)_
 
 <br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoranzan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E63939&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joranzan&show_icons=true&theme=dark)
 
 <!--
