@@ -13,7 +13,7 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
   
 `2017.03 ~ 2023.08`
 
-_10th Student at SSAFY(Samsung Software Academy For Youth)_
+_Student at SSAFY(Samsung Software Academy For Youth) 10th_
 <br>
 
 `2023.08 ~`
