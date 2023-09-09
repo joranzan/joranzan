@@ -9,8 +9,6 @@ Bachelor's degree at Electric & Information Engineering, Korea University
   
 `2017.03 ~ 2023.08`
 
-<br>
-
 10th Student at SSAFY(Samsung Software Academy For Youth) 
 <br>
 
