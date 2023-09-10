@@ -25,9 +25,12 @@ _Student at SSAFY(Samsung Software Academy For Youth) 10th_
 
 ![vuedotjs](https://img.shields.io/badge/vue%20dot%20js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-![vuedotjs](https://img.shields.io/badge/vue%20dot%20js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ![vuedotjs](https://img.shields.io/badge/vue%20dot%20js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+
+![vuedotjs](https://img.shields.io/badge/vue%20dot%20js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+
 
 ![vuedotjs](https://img.shields.io/badge/vue%20dot%20js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
