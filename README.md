@@ -24,7 +24,9 @@ _Student at SSAFY(Samsung Software Academy For Youth) 10th_
 
 <h3>Skills</h3>
 
-![cplusplus](https://img.shields.io/badge/cplusplus-#00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=#00599C)
+
+![vuedotjs](https://img.shields.io/badge/vue%20dot%20js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+
 
 <br>
 
