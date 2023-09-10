@@ -20,7 +20,6 @@ _Student at SSAFY(Samsung Software Academy For Youth) 10th_
 
 ---
 
-<br>
 
 <h3>Skills</h3>
 
