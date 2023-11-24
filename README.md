@@ -25,7 +25,12 @@ _Student at SSAFY(Samsung Software Academy For Youth) 10th_
 
 ![vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)<span>
 </span>![C++](https://img.shields.io/badge/C++-4FC08D.svg?&style=for-the-badge&logo=C++&logoColor=white)
-
+<img src="https://img.shields.io/badge/C-512BD4?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 <br>
 
