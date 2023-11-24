@@ -23,7 +23,7 @@ _Student at SSAFY(Samsung Software Academy For Youth) 10th_
 
 <h3>Skills</h3>
 
-<img src="https://img.shields.io/badge/C-512BD4?style=for-the-badge&logo=C&logoColor=white">
+<span><img src="https://img.shields.io/badge/C-512BD4?style=for-the-badge&logo=C&logoColor=white"></span>
 <img src="https://img.shields.io/badge/cplusplus-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/python-512BD4?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/html5-EE4C2C?style=for-the-badge&logo=html5&logoColor=white">
