@@ -34,8 +34,8 @@ _Student at SSAFY(Samsung Software Academy For Youth) 10th_
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/nodered-8F0000?style=for-the-badge&logo=nodered&logoColor=white">
 <img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white">
-<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 </span>
 
 <br>
