@@ -9,21 +9,29 @@
 
 <br>
 
-_Bachelor's degree at Electric & Information Engineering, Korea University_
-  
-`2017.03 ~ 2023.08`
+_Software Engineer at Samsung Electronics_
+<br>
+
+`2024.10 ~ `
 
 _Student at SSAFY(Samsung Software Academy For Youth) 10th_
 <br>
 
-`2023.08 ~`
+`2023.08 ~ 2024.06`
+
+_Bachelor's degree at Electric & Information Engineering, Korea University_
+<br>
+
+`2017.03 ~ 2023.08`
+
+
 
 ---
 
 
 <h3>Skills</h3>
 
-<span>Languages : <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<span><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
