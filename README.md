@@ -3,6 +3,14 @@
 ### Thank you for visiting my Github!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoranzan&count_bg=%2379C83D&title_bg=%23D41515&icon=github.svg&icon_color=%23FFFEFE&title=Today+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<table>
+  <tr>
+    <td align="left">### Hello, welcome to my profile!</td>
+    <td align="right">Hits: 1234</td>
+  </tr>
+</table>
+
+
 ## ✏️ About Me
 
 ### I am a software engineer dedicated to personal and professional **growth** through **embracing challenges** and viewing failures as valuable learning experiences.
