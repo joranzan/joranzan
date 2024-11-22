@@ -45,20 +45,7 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 | Language                      | ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
 | Circuit Simulation          | ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-FF4500?style=for-the-badge&logo=verilog&logoColor=white) ![NG SPICE](https://img.shields.io/badge/NG%20SPICE-008B8B?style=for-the-badge&logo=None&logoColor=white) |
 | Device Simulation           | ![TCAD](https://img.shields.io/badge/TCAD-005B96?style=for-the-badge&logo=None&logoColor=white) |
-
-
-
-
-<h3>Hardware</h3>
-
-| HardWare                       | 
-|--------------------------|
-| Matlab                  |
-| Verilog HDL             |
-| TCAD                    |
-| NG SPICE                |
-| STM Nucleo Board (STM32F103RB) |
-| Renesas Board (RA6E1)   |
+| Knowledges                  | Electrical Circuit Analysis, Fundamentals of semi-conductor, Fabrication of semi-conductor, Signal & Systems |
 
 
 </span>
