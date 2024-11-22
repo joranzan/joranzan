@@ -1,6 +1,7 @@
 <h2>Hi, I'm Hanjun Cho! 👋</h2> 
 
 #### Thank you for visiting my Github!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoranzan&count_bg=%2379C83D&title_bg=%23D41515&icon=github.svg&icon_color=%23FFFEFE&title=Today+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ✏️ **About Me**
 
@@ -21,8 +22,8 @@ As a result, I am a **global talent equipped with both hardware expertise and so
 ---
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoranzan&count_bg=%2379C83D&title_bg=%23D41515&icon=github.svg&icon_color=%23FFFEFE&title=Today+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## Career
 
 _Software Engineer at Samsung Electronics Device Solutions Corporation_
 `2024.10 ~ `
