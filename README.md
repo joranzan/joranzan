@@ -27,7 +27,7 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 <h3>Technical Skills</h3>
 
 
-| Software Skills  |                                                                                                                          |
+|                  |                        Software Skills                                                                                   |
 |------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Languages        | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | OS               | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-62BB47?style=for-the-badge&logo=None&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-2CB9F1?style=for-the-badge&logo=None&logoColor=white) |
