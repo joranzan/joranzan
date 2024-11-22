@@ -22,6 +22,27 @@ As a result, I am a **global talent equipped with both hardware expertise and so
 ---
 
 
+💡 안녕하십니까!
+실패를 두려워하지 않고 **도전**하며, 이를 통해 **성장**하는 것을 즐기는 개발자입니다.
+저는 인생을 마치 저만의 오답노트라고 생각하며, 도전과 경험을 통해 더 나은 방향으로 나아가는 것을 삶의 원동력으로 삼고 있습니다. 실패는 저에게 좌절이 아닌 소중한 자산이자 배움의 기회입니다.
+1. HW와 SW의 융합적 역량
+   전공에서 쌓은 탄탄한 하드웨어 지식과 삼성청년SW아카데미에서 익힌 소프트웨어 개발 역량을 결합하여, 문제를 다각도로 해결할 수 있는 균형 잡힌 개발자로 성장하고 있습니다.
+2. 도전을 즐기며 지속적으로 성장하는 개발자
+   대학교 전공 수업을 통해 **하드웨어(HW) 지식**을 쌓아왔으며, **소프트웨어(SW) 개발자**가 되겠다는 도전적인 목표를 가지고 **삼성청년SW아카데미**에서 **SW 역량**을 키웠습니다.
+3. 글로벌 소통 능력
+   국내외 협업을 위한 영어 회화 능력을 바탕으로 다양한 환경에서 원활한 커뮤니케이션이 가능합니다.
+
+
+
+
+💡 Hi
+I am a developer who embraces **challenges** without fear of failure and **enjoys growing** through these experiences.
+Through my university courses, I have built a solid foundation in **Hardware (HW) Knowledges**. Driven by an ambitious goal to become a **Software (SW) Developer**, I joined the **Samsung Software Academy for Youth** to enhance my **software(SW) skills**.
+Additionally, I have improved my **English conversation skills** to facilitate both domestic and international collaboration.
+As a result, I am a **global talent equipped with both hardware expertise and software development capabilities**.
+
+
+---
 
 <h3>Career</h3> 
 
