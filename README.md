@@ -1,7 +1,24 @@
 <h2>Hi, I'm Hanjun Cho! 👋</h2> 
 
 #### Thank you for visiting my Github!
+<aside>
+✏️ **About Me**
 
+<aside>
+💡 안녕하십니까!
+실패를 두려워하지 않고 **도전**하며, 이를 통해 **성장**하는 것을 즐기는 개발자입니다.
+대학교 전공 수업을 통해 **하드웨어(HW) 지식**을 쌓아왔으며, **소프트웨어(SW) 개발자**가 되겠다는 도전적인 목표를 가지고 **삼성청년SW아카데미**에 입과하여 **SW 역량**을 키웠습니다.
+또한, 국내뿐만 아니라 국제적인 협업을 위해 **영어 회화 능력**을 갖추고 있습니다..
+따라서, 저는 **하드웨어 지식과 소프트웨어 개발 역량을 모두 갖춘 글로벌 인재**입니다.
+</aside>
+
+<aside>
+💡 Hi
+I am a developer who embraces **challenges** without fear of failure and **enjoys growing** through these experiences.
+Through my university courses, I have built a solid foundation in **hardware (HW)** knowledge. Driven by an ambitious goal to become a **software (SW) developer**, I joined the **Samsung Software Academy for Youth** to enhance my **software(SW) skills**.
+Additionally, I have improved my **English conversation skills** to facilitate both domestic and international collaboration.
+As a result, I am a **global talent equipped with both hardware expertise and software development capabilities**.
+</aside>
 ---
 
 
