@@ -48,7 +48,7 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 | Knowledges                  | Circuit Design&Analysis, Fundamentals of semi-conductor, Fabrication of semi-conductor, Signal & Systems |
 
 
-![TCAD](https://img.shields.io/badge/Circuit-Design&Analysis-005B96?style=for-the-badge&logo=None&logoColor=black)
+![TCAD](https://img.shields.io/badge/Circuit-Design-Analysis-005B96?style=for-the-badge&logo=None&logoColor=black)
 
 </span>
 
