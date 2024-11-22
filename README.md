@@ -23,7 +23,7 @@ As a result, I am a **global talent equipped with both hardware expertise and so
 
 
 
-## Career
+<h3>Career</h3> 
 
 _Software Engineer at Samsung Electronics Device Solutions Corporation_
 `2024.10 ~ `
