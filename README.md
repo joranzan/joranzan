@@ -20,12 +20,12 @@ Fluent in English, I am adept at collaborating in both domestic and internationa
 
 ## Careers
 
-_Software Engineer at Samsung Electronics Device Solutions Corporation_
+_**Software Engineer** at **Samsung Electronics** Device Solutions Corporation_
 `2024.10 ~ `
 
 <br>
 
-_Student at SSAFY(Samsung Software Academy For Youth) 10th_
+_Student at **SSAFY**(Samsung Software Academy For Youth) 10th_
 `2023.08 ~ 2024.06`
 
 <br>
