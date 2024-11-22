@@ -16,7 +16,7 @@ Each challenge and opportunity fuels my drive to continuously improve. I view fa
 ### **3. Global Communication Skills**
 Fluent in English, I am adept at collaborating in both domestic and international environments, allowing me to navigate diverse teams and contribute effectively in global settings.
 
-
+<br>
 
 ## Careers
 
@@ -34,8 +34,8 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 `2017.03 ~ 2023.08`
 
 
+<br>
 
----
 ## Technical Skills
 
 
@@ -59,7 +59,7 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 | Device Simulation           | ![TCAD](https://img.shields.io/badge/TCAD-005B96?style=for-the-badge&logo=None&logoColor=white) |
 | Knowledges                  | `Circuit Design & Analysis` `Fundamentals of Semiconductor_` `Signal & Systems`,  `Computer Architecture` |
 
----
+<br>
 
 # Records
 
