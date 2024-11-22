@@ -22,13 +22,13 @@
 #### I am a software engineer dedicated to personal and professional **growth** through **embracing challenges** and viewing failures as valuable learning experiences.
 
 #### **1. Balanced Expertise in Hardware and Software**
-##### With a strong academic foundation in Hardware and hands-on Software development experience from the _Samsung Software Academy For Youth_, I have developed a well-rounded skill set. This enables me to approach problems from both hardware and software perspectives, fostering holistic solutions.
+With a strong academic foundation in Hardware and hands-on Software development experience from the _Samsung Software Academy For Youth_, I have developed a well-rounded skill set. This enables me to approach problems from both hardware and software perspectives, fostering holistic solutions.
 
 #### **2. Passion for Growth and Innovation**
-##### Each challenge and opportunity fuels my drive to continuously improve. I view failure not as a setback, but as a crucial step in my learning journey, leveraging it to refine my skills and innovate further.
+Each challenge and opportunity fuels my drive to continuously improve. I view failure not as a setback, but as a crucial step in my learning journey, leveraging it to refine my skills and innovate further.
 
 #### **3. Global Communication Skills**
-##### Fluent in English, I am adept at collaborating in both domestic and international environments, allowing me to navigate diverse teams and contribute effectively in global settings.
+Fluent in English, I am adept at collaborating in both domestic and international environments, allowing me to navigate diverse teams and contribute effectively in global settings.
 
 ---
 
