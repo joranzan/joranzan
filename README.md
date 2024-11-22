@@ -16,7 +16,7 @@ Each challenge and opportunity fuels my drive to continuously improve. I view fa
 ### **3. Global Communication Skills**
 Fluent in English, I am adept at collaborating in both domestic and international environments, allowing me to navigate diverse teams and contribute effectively in global settings.
 
----
+
 
 ## Careers
 
