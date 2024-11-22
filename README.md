@@ -42,7 +42,7 @@ _Bachelor's degree at **Electric & Information Engineering**, Korea University_
 
 ## Technical Skills
 
-#### Software Skills
+#### **Software Skills**
 
 | Category         | Skills                                                                                                                   |
 |------------------|--------------------------------------------------------------------------------------------------------------------------|
@@ -57,7 +57,7 @@ _Bachelor's degree at **Electric & Information Engineering**, Korea University_
 
 <br>
 
-#### Hardware Skills
+#### **Hardware Skills**
 
 | Category                | Skills                                                                                                              |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------|
