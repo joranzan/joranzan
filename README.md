@@ -66,11 +66,7 @@ _Bachelor's degree at **Electric & Information Engineering**, Korea University_
 
 # Records
 
-<br>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chohj0816)](https://solved.ac/chohj0816/)
-
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joranzan&show_icons=true&theme=dark)
 
