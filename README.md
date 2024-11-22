@@ -38,8 +38,8 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 <h4>OS</h4>
 <span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/FreeRTOS-E95420?style=for-the-badge&logo=None&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-E95420?style=for-the-badge&logo=None&logoColor=white"></span>
+<img src="https://img.shields.io/badge/FreeRTOS-62BB47?style=for-the-badge&logo=None&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-2CB9F1?style=for-the-badge&logo=None&logoColor=white"></span>
 
 
 <h4>Frontend</h4>
@@ -80,20 +80,15 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 </span>
 
 
-<h4>HW</h4>
----------------------------------
-|Matlab
----------------------------------
-|Verilog HDL
----------------------------------
-|TCAD
----------------------------------
-|NG SPICE
----------------------------------
-|STM Nucleo Board (STM32F103RB)
----------------------------------
-|Renesas Board (RA6E1)
----------------------------------
+| HW                       | 
+|--------------------------|
+| Matlab                  |
+| Verilog HDL             |
+| TCAD                    |
+| NG SPICE                |
+| STM Nucleo Board (STM32F103RB) |
+| Renesas Board (RA6E1)   |
+
 
 </span>
 
