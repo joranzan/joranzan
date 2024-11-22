@@ -9,19 +9,16 @@
 
 
 _Software Engineer at Samsung Electronics Corp._
-
 `2024.10 ~ `
 
 <br>
 
 _Student at SSAFY(Samsung Software Academy For Youth) 10th_
-
 `2023.08 ~ 2024.06`
 
 <br>
 
 _Bachelor's degree at Electric & Information Engineering, Korea University_
-
 `2017.03 ~ 2023.08`
 
 
