@@ -1,7 +1,7 @@
 <h2>Hi, I'm Hanjun Cho! 👋</h2> 
 
 #### Thank you for visiting my Github!
-<aside>
+
 ✏️ **About Me**
 
 
