@@ -3,52 +3,33 @@
 #### Thank you for visiting my Github!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoranzan&count_bg=%2379C83D&title_bg=%23D41515&icon=github.svg&icon_color=%23FFFEFE&title=Today+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
 
-✏️ **About Me**
+# ✏️ About Me
 
 
-💡 안녕하십니까!
-실패를 두려워하지 않고 **도전**하며, 이를 통해 **성장**하는 것을 즐기는 개발자입니다.
-대학교 전공 수업을 통해 **하드웨어(HW) 지식**을 쌓아왔으며, **소프트웨어(SW) 개발자**가 되겠다는 도전적인 목표를 가지고 **삼성청년SW아카데미**에서 **SW 역량**을 키웠습니다.
-또한, 국내뿐만 아니라 국제적인 협업을 위해 **영어 회화 능력**을 갖추고 있습니다..
-따라서, 저는 **하드웨어 지식과 소프트웨어 개발 역량을 모두 갖춘 글로벌 인재**입니다.
+###💡안녕하십니까!
+### 실패를 두려워하지 않고 **도전**하며, 이를 통해 **성장**하는 것을 즐기는 소프트웨어 엔지니어입니다.
 
-
-💡 Hi
-I am a developer who embraces **challenges** without fear of failure and **enjoys growing** through these experiences.
-Through my university courses, I have built a solid foundation in **Hardware (HW) Knowledges**. Driven by an ambitious goal to become a **Software (SW) Developer**, I joined the **Samsung Software Academy for Youth** to enhance my **software(SW) skills**.
-Additionally, I have improved my **English conversation skills** to facilitate both domestic and international collaboration.
-As a result, I am a **global talent equipped with both hardware expertise and software development capabilities**.
+### 1. **HW와 SW의 융합적 역량**
+   전공에서 쌓은 탄탄한 하드웨어 지식과 삼성청년SW아카데미에서 익힌 소프트웨어 개발 역량을 결합하여, 문제를 다각도로 해결할 수 있는 균형 잡힌 개발자로 성장하고 있습니다.
+### 2. **도전을 즐기며 지속적으로 성장하는 개발자**
+   저는 인생을 마치 저만의 오답노트라고 생각하며, 도전과 경험을 통해 더 나은 방향으로 나아가는 것을 삶의 원동력으로 삼고 있습니다. 따라서 실패는 저에게 좌절이 아닌 소중한 자산이자 배움의 기회입니다.
+### 3. **글로벌 소통 능력**
+   국내외 협업을 위한 영어 회화 능력을 바탕으로 다양한 환경에서 원활한 커뮤니케이션이 가능합니다.
 
 ---
 
 
-💡 안녕하십니까!
-실패를 두려워하지 않고 **도전**하며, 이를 통해 **성장**하는 것을 즐기는 소프트웨어 엔지니어입니다.
+### 💡 **Hi there!**
+#### I am a software engineer dedicated to personal and professional **growth** through **embracing challenges** and viewing failures as valuable learning experiences.
 
-1. HW와 SW의 융합적 역량
-   전공에서 쌓은 탄탄한 하드웨어 지식과 삼성청년SW아카데미에서 익힌 소프트웨어 개발 역량을 결합하여, 문제를 다각도로 해결할 수 있는 균형 잡힌 개발자로 성장하고 있습니다.
-2. 도전을 즐기며 지속적으로 성장하는 개발자
-   저는 인생을 마치 저만의 오답노트라고 생각하며, 도전과 경험을 통해 더 나은 방향으로 나아가는 것을 삶의 원동력으로 삼고 있습니다. 따라서 실패는 저에게 좌절이 아닌 소중한 자산이자 배움의 기회입니다.
-3. 글로벌 소통 능력
-   국내외 협업을 위한 영어 회화 능력을 바탕으로 다양한 환경에서 원활한 커뮤니케이션이 가능합니다.
-
-
-
-
-💡 Hi
-I am a software engineer dedicated to personal and professional growth through embracing challenges and viewing failures as valuable learning experiences.
-
-1. Balanced Expertise in Hardware and Software
+### **1. Balanced Expertise in Hardware and Software**
 With a strong academic foundation in Hardware and hands-on Software development experience from the _Samsung Software Academy For Youth_, I have developed a well-rounded skill set. This enables me to approach problems from both hardware and software perspectives, fostering holistic solutions.
 
-2. Passion for Growth and Innovation
+### **2. Passion for Growth and Innovation**
 Each challenge and opportunity fuels my drive to continuously improve. I view failure not as a setback, but as a crucial step in my learning journey, leveraging it to refine my skills and innovate further.
 
-3. Global Communication Skills
+### **3. Global Communication Skills**
 Fluent in English, I am adept at collaborating in both domestic and international environments, allowing me to navigate diverse teams and contribute effectively in global settings.
-
-
-
 
 ---
 
