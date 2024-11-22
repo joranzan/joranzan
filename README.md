@@ -1,9 +1,8 @@
 # Hi, I'm Hanjun Cho 👋 
 
-<p style="text-align: left;">
-  <h3>Thank you for visiting my Github!</h3>
-</p>
-<p style="text-align: right;">
+### Thank you for visiting my Github!
+
+<p align="right">
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoranzan&count_bg=%2379C83D&title_bg=%23D41515&icon=github.svg&icon_color=%23FFFEFE&title=Today+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
 
