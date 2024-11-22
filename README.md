@@ -68,7 +68,7 @@ _Bachelor's degree at **Electric & Information Engineering**, Korea University_
 
 <br>
 
-# Records
+## Records
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chohj0816)](https://solved.ac/chohj0816/)
 
