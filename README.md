@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoranzan&count_bg=%2379C83D&title_bg=%23D41515&icon=github.svg&icon_color=%23FFFEFE&title=Today+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-_Software Engineer at Samsung Electronics Corp._
+_Software Engineer at Samsung Electronics Device Solutions Corp._
 `2024.10 ~ `
 
 <br>
@@ -40,14 +40,12 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 
 
 
-| HW                          |                                                                                               |
+|                             |          Hardware Skills                                                                      |
 |-----------------------------|-----------------------------------------------------------------------------------------------|
-| Matlab                     | ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
-| Verilog HDL                | ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-FF4500?style=for-the-badge&logo=verilog&logoColor=white) |
-| TCAD                       | ![TCAD](https://img.shields.io/badge/TCAD-005B96?style=for-the-badge&logo=None&logoColor=white) |
-| NG SPICE                   | ![NG SPICE](https://img.shields.io/badge/NG%20SPICE-008B8B?style=for-the-badge&logo=None&logoColor=white) |
-| STM Nucleo Board (STM32F103RB) | ![STM Nucleo Board](https://img.shields.io/badge/STM32F103RB-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) |
-| Renesas Board (RA6E1)      | ![Renesas Board](https://img.shields.io/badge/Renesas%20RA6E1-0033A0?style=for-the-badge&logo=renesas&logoColor=white) |
+| Language                      | ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
+| Circuit Simulation          | ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-FF4500?style=for-the-badge&logo=verilog&logoColor=white) ![NG SPICE](https://img.shields.io/badge/NG%20SPICE-008B8B?style=for-the-badge&logo=None&logoColor=white) |
+| Device Simulation           | ![TCAD](https://img.shields.io/badge/TCAD-005B96?style=for-the-badge&logo=None&logoColor=white) |
+
 
 
 
