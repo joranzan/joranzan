@@ -40,7 +40,7 @@ _Bachelor's degree at **Electric & Information Engineering**, Korea University_
 
 ### Software Skills
 
-
+| Category         | Skills                                                                                                                   |
 | Languages        | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | OS               | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-62BB47?style=for-the-badge&logo=None&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-2CB9F1?style=for-the-badge&logo=None&logoColor=white) |
 | Frontend         | ![HTML](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white) |
@@ -54,8 +54,8 @@ _Bachelor's degree at **Electric & Information Engineering**, Korea University_
 
 ### Hardware Skills
 
-
-| Language                      | ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
+| Category                    | Skills                                                                                                                   |
+| Language                    | ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
 | Circuit Simulation          | ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-FF4500?style=for-the-badge&logo=verilog&logoColor=white) ![NG SPICE](https://img.shields.io/badge/NG%20SPICE-008B8B?style=for-the-badge&logo=None&logoColor=white) |
 | Device Simulation           | ![TCAD](https://img.shields.io/badge/TCAD-005B96?style=for-the-badge&logo=None&logoColor=white) |
 | Knowledges                  | `Circuit Design & Analysis` `Fundamentals of Semiconductor_` `Signal & Systems`,  `Computer Architecture` |
