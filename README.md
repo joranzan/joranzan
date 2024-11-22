@@ -1,10 +1,8 @@
 # Hi, I'm Hanjun Cho 👋 
 
 ### Thank you for visiting my Github!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoranzan&count_bg=%2379C83D&title_bg=%23D41515&icon=github.svg&icon_color=%23FFFEFE&title=Today+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align="right">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoranzan&count_bg=%2379C83D&title_bg=%23D41515&icon=github.svg&icon_color=%23FFFEFE&title=Today+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
-</p>
 
 
 
