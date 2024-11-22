@@ -1,14 +1,14 @@
-<h2>Hi, I'm Hanjun Cho! 👋</h2> 
+# Hi, I'm Hanjun Cho! 👋
 
-#### Thank you for visiting my Github!
+### Thank you for visiting my Github!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoranzan&count_bg=%2379C83D&title_bg=%23D41515&icon=github.svg&icon_color=%23FFFEFE&title=Today+Stats&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # ✏️ About Me
 
 ---
 
-### 💡 **Hi there!**
-### I am a software engineer dedicated to personal and professional **growth** through **embracing challenges** and viewing failures as valuable learning experiences.
+## 💡 **Hi there!**
+## I am a software engineer dedicated to personal and professional **growth** through **embracing challenges** and viewing failures as valuable learning experiences.
 
 ### **1. Balanced Expertise in Hardware and Software**
 With a strong academic foundation in Hardware and hands-on Software development experience from the _Samsung Software Academy For Youth_, I have developed a well-rounded skill set. This enables me to approach problems from both hardware and software perspectives, fostering holistic solutions.
@@ -21,7 +21,7 @@ Fluent in English, I am adept at collaborating in both domestic and internationa
 
 ---
 
-<h3>Career</h3> 
+## Careers
 
 _Software Engineer at Samsung Electronics Device Solutions Corporation_
 `2024.10 ~ `
@@ -39,7 +39,7 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 
 
 ---
-<h3>Technical Skills</h3>
+## Technical Skills
 
 
 |                  |                        Software Skills                                                                                   |
@@ -62,9 +62,9 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 | Device Simulation           | ![TCAD](https://img.shields.io/badge/TCAD-005B96?style=for-the-badge&logo=None&logoColor=white) |
 | Knowledges                  | `Circuit Design & Analysis` `Fundamentals of Semiconductor_` `Signal & Systems`,  `Computer Architecture` |
 
+---
 
-
-</span>
+# Records
 
 <br>
 
