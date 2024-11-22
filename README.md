@@ -40,23 +40,18 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 
 
 
+| HW                          |                                                                                               |
+|-----------------------------|-----------------------------------------------------------------------------------------------|
+| Matlab                     | ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
+| Verilog HDL                | ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-FF4500?style=for-the-badge&logo=verilog&logoColor=white) |
+| TCAD                       | ![TCAD](https://img.shields.io/badge/TCAD-005B96?style=for-the-badge&logo=None&logoColor=white) |
+| NG SPICE                   | ![NG SPICE](https://img.shields.io/badge/NG%20SPICE-008B8B?style=for-the-badge&logo=None&logoColor=white) |
+| STM Nucleo Board (STM32F103RB) | ![STM Nucleo Board](https://img.shields.io/badge/STM32F103RB-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) |
+| Renesas Board (RA6E1)      | ![Renesas Board](https://img.shields.io/badge/Renesas%20RA6E1-0033A0?style=for-the-badge&logo=renesas&logoColor=white) |
+
 
 
 <h3>Hardware</h3>
-
-
-<h4>Tool</h4>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
-</span>
-
-
-
-
-
 
 | HW                       | 
 |--------------------------|
