@@ -5,10 +5,8 @@
 
 # ✏️ About Me
 
----
-
-## 💡 **Hi there!**
-## I am a software engineer dedicated to personal and professional **growth** through **embracing challenges** and viewing failures as valuable learning experiences.
+### 💡 **Hi there!**
+### I am a software engineer dedicated to personal and professional **growth** through **embracing challenges** and viewing failures as valuable learning experiences.
 
 ### **1. Balanced Expertise in Hardware and Software**
 With a strong academic foundation in Hardware and hands-on Software development experience from the _Samsung Software Academy For Youth_, I have developed a well-rounded skill set. This enables me to approach problems from both hardware and software perspectives, fostering holistic solutions.
