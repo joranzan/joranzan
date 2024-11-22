@@ -5,32 +5,32 @@
 
 # ✏️ About Me
 
-```
-### 💡안녕하십니까!
+
+#### 💡안녕하십니까!
 #### 실패를 두려워하지 않고 **도전**하며, 이를 통해 **성장**하는 것을 즐기는 소프트웨어 엔지니어입니다.
 
-### 1. **HW와 SW의 융합적 역량**
+#### 1. **HW와 SW의 융합적 역량**
 ##### 전공에서 쌓은 탄탄한 하드웨어 지식과 삼성청년SW아카데미에서 익힌 소프트웨어 개발 역량을 결합하여, 문제를 다각도로 해결할 수 있는 균형 잡힌 개발자로 성장하고 있습니다.
-### 2. **도전을 즐기며 지속적으로 성장하는 개발자**
+#### 2. **도전을 즐기며 지속적으로 성장하는 개발자**
 ##### 저는 인생을 마치 저만의 오답노트라고 생각하며, 도전과 경험을 통해 더 나은 방향으로 나아가는 것을 삶의 원동력으로 삼고 있습니다. 따라서 실패는 저에게 좌절이 아닌 소중한 자산이자 배움의 기회입니다.
-### 3. **글로벌 소통 능력**
+#### 3. **글로벌 소통 능력**
 ##### 국내외 협업을 위한 영어 회화 능력을 바탕으로 다양한 환경에서 원활한 커뮤니케이션이 가능합니다.
-```
+
 
 ---
 
 
-### 💡 **Hi there!**
+#### 💡 **Hi there!**
 #### I am a software engineer dedicated to personal and professional **growth** through **embracing challenges** and viewing failures as valuable learning experiences.
 
-### **1. Balanced Expertise in Hardware and Software**
-With a strong academic foundation in Hardware and hands-on Software development experience from the _Samsung Software Academy For Youth_, I have developed a well-rounded skill set. This enables me to approach problems from both hardware and software perspectives, fostering holistic solutions.
+#### **1. Balanced Expertise in Hardware and Software**
+##### With a strong academic foundation in Hardware and hands-on Software development experience from the _Samsung Software Academy For Youth_, I have developed a well-rounded skill set. This enables me to approach problems from both hardware and software perspectives, fostering holistic solutions.
 
-### **2. Passion for Growth and Innovation**
-Each challenge and opportunity fuels my drive to continuously improve. I view failure not as a setback, but as a crucial step in my learning journey, leveraging it to refine my skills and innovate further.
+#### **2. Passion for Growth and Innovation**
+##### Each challenge and opportunity fuels my drive to continuously improve. I view failure not as a setback, but as a crucial step in my learning journey, leveraging it to refine my skills and innovate further.
 
-### **3. Global Communication Skills**
-Fluent in English, I am adept at collaborating in both domestic and international environments, allowing me to navigate diverse teams and contribute effectively in global settings.
+#### **3. Global Communication Skills**
+##### Fluent in English, I am adept at collaborating in both domestic and international environments, allowing me to navigate diverse teams and contribute effectively in global settings.
 
 ---
 
