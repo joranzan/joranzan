@@ -45,8 +45,10 @@ _Bachelor's degree at Electric & Information Engineering, Korea University_
 | Language                      | ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
 | Circuit Simulation          | ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-FF4500?style=for-the-badge&logo=verilog&logoColor=white) ![NG SPICE](https://img.shields.io/badge/NG%20SPICE-008B8B?style=for-the-badge&logo=None&logoColor=white) |
 | Device Simulation           | ![TCAD](https://img.shields.io/badge/TCAD-005B96?style=for-the-badge&logo=None&logoColor=white) |
-| Knowledges                  | Electrical Circuit Analysis, Fundamentals of semi-conductor, Fabrication of semi-conductor, Signal & Systems |
+| Knowledges                  | Circuit Design&Analysis, Fundamentals of semi-conductor, Fabrication of semi-conductor, Signal & Systems |
 
+
+![TCAD](https://img.shields.io/badge/Circuit-Design&Analysis-005B96?style=for-the-badge&logo=None&logoColor=black)
 
 </span>
 
